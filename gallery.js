@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "재호 ♥ 유진의 모바일 청첩장",
         description: "2025년 9월 6일 토요일♡",
-        imageUrl: "https://i.imgur.com/oM7Nmk1.png",
+        imageUrl: "https://i.imgur.com/k9WvkaH.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
